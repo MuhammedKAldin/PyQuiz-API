@@ -1,5 +1,5 @@
 # Exium - Python Quiz Application
- * Python Quiz application with Random Questions APi through https://opentdb.com/
+ * Python Quiz application with Random Questions api through https://opentdb.com/
  * Asynchroneous API calls
  * Multi-window management
  * Data Persisting and Storing  
